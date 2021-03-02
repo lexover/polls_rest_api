@@ -1,4 +1,4 @@
-#REST API for conducting polls.
+# REST API for conducting polls.
 
 It's implementation of REST API for conducting polls using Django REST Framework. The pytest is used for testing, Swagger wiht drf-yasg used for documenting API, Postgres is used as database. 
 To run this app you should have installed [Docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/). 
